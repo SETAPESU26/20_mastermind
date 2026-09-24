@@ -1,4 +1,4 @@
-# Scenario 08 — Mastermind
+# Scenario 20 — Mastermind
 
 A terminal code-breaking game with repeated symbols and structured feedback.
 
